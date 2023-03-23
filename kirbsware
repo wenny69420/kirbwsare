@@ -1,4 +1,5 @@
-        game.StarterGui:SetCore("SendNotification", {
+wait(1) 
+       game.StarterGui:SetCore("SendNotification", {
         Title = 'Kirbsware Loaded';
         Text = '.gg/kirb';
         Icon = 'rbxassetid://12680621604';
