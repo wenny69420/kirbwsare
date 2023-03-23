@@ -4,3 +4,4 @@ game.StarterGui:SetCore("SendNotification", {
         Icon = 'rbxassetid://12680621604';
         Duration = "10";
     })
+end
